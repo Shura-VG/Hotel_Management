@@ -32,7 +32,7 @@ Các thành phần giao tiếp với nhau thông qua API và có thể được 
 - **Frontend:** React.js hoặc Vue.js
 - **Containerization:** Docker, Docker Compose
 - **CI/CD:** GitHub Actions
-- **Cơ sở dữ liệu:** PostgreSQL hoặc MySQL
+- **Cơ sở dữ liệu:**  MySQL
 
 ---
 
